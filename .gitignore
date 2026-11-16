@@ -1,0 +1,19 @@
+# === Audio (dikeluarkan dari repo: ukuran besar & berhak cipta) ===
+Hidayah/res/sound/*.wav
+Hidayah/res/sound/*.mp3
+
+# === Hasil compile Java ===
+Hidayah/bin/
+*.class
+
+# === Library JAR (download sendiri, lihat Hidayah/lib/README.md) ===
+Hidayah/lib/*.jar
+
+# === Sampah OS ===
+.DS_Store
+Thumbs.db
+
+# === File IDE (opsional) ===
+# .project
+# .classpath
+# .settings/
